@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.game-container {
+  margin: 20px auto;
+}
+.blockList {
+  list-style-type: none;
+  margin: 0;
+}
+.blockItem {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  text-indent: -999999px;
+  border: 1px solid;
+}
+.blockItem {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+}
+.colored {
+  background: black;
+}
